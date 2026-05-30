@@ -1,1 +1,1 @@
-# AI-Smart--Agriculture.
+# AI-SmartAgriculture.
